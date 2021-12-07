@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    width: 100px;
+    height: 60px;
+
+}
+.container .fa fa-bars{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    /* margin-left: 510px; */
+    height: 100px;
+    width: 100px;
+    margin-left: 1736px;
+}
+.container img{
+
+    width: 139px;
+    margin-left: 30px;
+}
+.container .search{
+    width: 150px;
+    margin-left: 418px;
+    height: 18px;
+    font-size: 21px;
+}
+.container btn{
+    width: 120px;
+    height: 21px;
+    margin-left: 20px;
+    font-size: 21px;
+}
+.container .fa fa-microphone{
+    width: 118px;
+    height: 17px;
+    margin-left: 20px;
+    font-size: 28px;
+}
+.container .fa fa-video-camera{
+    font-size: 25px;
+    margin-left: 100px;
+}
+.container .fa fa-bell{
+    font-size: 22px;
+    margin-left: 20px;
+}
+.container .fa fa-user-circle{
+    font-size: 25px;
+    margin-left: 20px;
+}
